@@ -24,6 +24,10 @@ The R script called run_analysis.R includes the following:
 4. Appropriately labels the data set with descriptive variable names. 
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-### About the CodeBook.md
+### About CodeBook.md
 
-This file contains the variable information and variable list of the
+This file shows the variable information and variable list of final_data.txt
+
+### About final_data.txt
+
+This file contains the final version of the data set. 
