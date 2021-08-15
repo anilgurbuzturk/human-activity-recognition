@@ -1,16 +1,3 @@
----
-title: "Code Book"
-author: "Anıl"
-date: "8/15/2021"
-output:
-  md_document:
-    variant: markdown_github
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 # Peer-graded Assignment: Getting and Cleaning Data Course Project
 
 ## Human Activity Recognition Using Smartphones Data Set
